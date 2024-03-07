@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NTBiotech
+- I study molecular biotechnology in Heidelberg.
+- I’m currently learning the basics of data science and bioinformatics.
+- Although I am proficient in R, my favorite language is python.
+- Hit me up if you`d like to have a bioinfo session!
+- PS: Best site for learning bioinfo: ROSALIND.info
